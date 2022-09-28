@@ -1,5 +1,5 @@
 # kingstrike.github.io
-포트폴리오로 이동 ☞ (kingstrike.github.io)
+[포트폴리오로 이동] ☞ (https://kingstrike.github.io/)
 
 #참고
 
