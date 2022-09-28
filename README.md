@@ -1,9 +1,9 @@
 # kingstrike.github.io
 포트폴리오로 이동 ☞ (https://kingstrike.github.io/)
 
-#참고
+# 참고
 
-##영상출저
+## 영상출저
 
 https://www.youtube.com/watch?v=LkJrSxPSbD4
 https://www.youtube.com/watch?v=cupz-719OHU
