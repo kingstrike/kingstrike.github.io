@@ -4,7 +4,7 @@
 
 # Skills
 Adobe Premiere Pro, Adobe Photoshop, Adobe After Effects, AutoDesk Maya
-<img alt="premire pro" src=https://w.namu.la/s/4502f1afe0418976068fc2d59f71df30c97b3ff44279536168aacf05f1e39621cd5f0bee
+<img alt="premire pro"  src="https://w.namu.la/s/4502f1afe0418976068fc2d59f71df30c97b3ff44279536168aacf05f1e39621cd5f0bee
 677d717c136e8c627d0862c1541e1971c9d49fbe056b654b289ce14d3d1c2dfbe473a980ddf946d03294a1509f7445b1d8298a982950cb3b428fc91b"/>
 
 ## 영상출저
