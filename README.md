@@ -17,3 +17,5 @@ https://www.youtube.com/watch?v=pGmwIbb6NqU
 ###
 3D Maya 튜토리얼 영상
 https://www.youtube.com/watch?v=LJLo6MafPVM
+
+![에프터이펙트](https://user-images.githubusercontent.com/37572495/192774057-65eb256a-f9a6-4a36-b0ed-4e6e27547d6e.png)
