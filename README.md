@@ -10,7 +10,6 @@
 https://www.youtube.com/watch?v=LkJrSxPSbD4
 ###
 트랜지션 영상
-###
 https://www.youtube.com/watch?v=cupz-719OHU
 ###
 색감보정 영상
