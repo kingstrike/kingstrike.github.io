@@ -3,8 +3,7 @@
 
 
 # Skills
-![image description] (https://user-images.githubusercontent.com/37572495/192781341-bb00aa76-5d4b-4777-b7b5-fa954b1ea8c0.png)
-
+Adobe Premiere Pro, Adobe Photoshop, Adobe After Effects, AutoDesk Maya
 
 ## 영상출저
 
