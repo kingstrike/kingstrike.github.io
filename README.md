@@ -4,6 +4,7 @@
 
 # Skills
 Adobe Premiere Pro, Adobe Photoshop, Adobe After Effects, AutoDesk Maya
+| `default` ![default][default] | `dark` ![dark][dark] | `radical` ![radical][radical] |
 
 ## 영상출저
 
