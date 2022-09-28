@@ -3,7 +3,7 @@
 
 
 # Skills
-<img alt = (https://user-images.githubusercontent.com/37572495/192780785-5cf9ddb7-3a57-4849-b7d7-988cc8c76c15.png)"/>
+<img alt = https://user-images.githubusercontent.com/37572495/192780785-5cf9ddb7-3a57-4849-b7d7-988cc8c76c15.png"/>
 
 
 ## 영상출저
