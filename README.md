@@ -3,7 +3,7 @@
 
 
 # Skills
-<img alt = "Photoshop" src ="https://user-images.githubusercontent.com/37572495/192779685-2ba19ad7-ee66-466e-a525-b67185dbef40.png"/>
+<img alt = (https://user-images.githubusercontent.com/37572495/192780785-5cf9ddb7-3a57-4849-b7d7-988cc8c76c15.png)"/>
 
 
 ## 영상출저
