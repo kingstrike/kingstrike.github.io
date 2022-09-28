@@ -2,7 +2,6 @@
 포트폴리오로 이동 ☞ (https://kingstrike.github.io/)
 
 # Skills
-![ㅇㅇㅇㅇㅇ](https://user-images.githubusercontent.com/37572495/192779136-1925397e-9bbe-49de-a88b-ac000b7a4166.png)
 
 
 
