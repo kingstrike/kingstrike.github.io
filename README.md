@@ -1,4 +1,2 @@
 # kingstrike.github.io
-
-## 마크다운 사용법 검색 구글링
-### h3
+##포트폴리오로 이동 ☞ (kingstrike.github.io)
