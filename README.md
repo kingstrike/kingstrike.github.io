@@ -3,7 +3,7 @@
 
 
 # Skills
-Adobe Premiere Pro, Adobe Photoshop, Adobe After Effects, AutoDesk Maya
+Adobe Premiere Pro, <a href="https://www.adobe.com/products/photoshop.html" title="Adobe Photoshop"><img src="https://github.com/get-icon/geticon/raw/master/icons/adobe-photoshop.svg" alt="Adobe Photoshop" width="21px" height="21px"></a> Adobe Photoshop, <a href="https://www.adobe.com/products/illustrator.html" title="Adobe Illustrator"><img src="https://github.com/get-icon/geticon/raw/master/icons/adobe-illustrator.svg" alt="Adobe Illustrator" width="21px" height="21px"></a> Adobe After Effects, AutoDesk Maya
 
 ## 영상출저
 
