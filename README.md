@@ -19,3 +19,4 @@ https://www.youtube.com/watch?v=pGmwIbb6NqU
 ###
 3D Maya 튜토리얼 영상
 https://www.youtube.com/watch?v=LJLo6MafPVM
+<img src="https://github.com/get-icon/geticon/raw/master/icons/adobe-illus.svg" alt="Adobe Premiere Pro" width="21px" height="21px"></a>
