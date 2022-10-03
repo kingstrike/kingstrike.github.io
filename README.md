@@ -5,7 +5,7 @@
 
 
 # Skills
-<a href="https://www.adobe.com/products/premiere.html" title="Adobe Premiere pro"><img src="https://github.com/get-icon/geticon/raw/master/icons/adobe-premiere_pro.svg" alt="Adobe premiere pro" width="21px" height="21px"></a> Adobe Premiere Pro, <a href="https://www.adobe.com/products/photoshop.html" title="Adobe Photoshop"><img src="https://github.com/get-icon/geticon/raw/master/icons/adobe-photoshop.svg" alt="Adobe Photoshop" width="21px" height="21px"></a> Adobe Photoshop <a href="https://www.adobe.com/products/premiere.html" title="Adobe Premiere pro"><img src="https://github.com/get-icon/geticon/raw/master/icons/adobe-after_effects.svg" alt="Adobe premiere pro" width="21px" height="21px"></a> Adobe After Effects
+<a href="https://www.adobe.com/products/premiere.html" title="Adobe Premiere pro"><img src="https://github.com/get-icon/geticon/raw/master/icons/adobe-premiere_pro.svg" alt="Adobe premiere pro" width="21px" height="21px"></a> Adobe Premiere Pro, <a href="https://www.adobe.com/products/photoshop.html" title="Adobe Photoshop"><img src="https://github.com/get-icon/geticon/raw/master/icons/adobe-photoshop.svg" alt="Adobe Photoshop" width="21px" height="21px"></a> Adobe Photoshop <a href="https://www.adobe.com/products/premiere.html" title="Adobe Premiere pro"><img src="https://github.com/get-icon/geticon/raw/master/icons/adobe-after_effects.svg" alt="Adobe premiere pro" width="21px" height="21px"></a> Adobe After Effects,Autodesk Maya
 
 # 영상 출처
 
