@@ -1,5 +1,5 @@
 # kingstrike.github.io
-포트폴리오 이동 ☞ (https://kingstrike.github.io/)\
+포트폴리오 이동 ☞ (https://kingstrike.github.io/)
 ###
 네트리파이 이동 ☞ (https://strong-hotteok-c267ef.netlify.app/)
 
